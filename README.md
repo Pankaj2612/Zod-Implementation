@@ -20,6 +20,9 @@ npm install typescript --save-dev
 npx tsc --init
 npx tsc
 node dist/index.js
+```
 
+Result
+![Zod](https://github.com/user-attachments/assets/4e18a3e3-3389-4bc6-8118-2e6f56e30da0)
 
 
