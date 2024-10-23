@@ -15,3 +15,12 @@ Clone the repository and install the dependencies:
 ```bash
 git clone https://github.com/Pankaj2612/Zod-Implementation.git
 cd Zod-Implementation
+
+
+npm install -g typescript
+npm init -y
+tsc index.ts
+node dist/index.js
+
+
+
